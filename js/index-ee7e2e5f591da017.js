@@ -1549,7 +1549,7 @@
   "aria-label": "Close modal",
   onClick: () => {
     b();  // still closes the modal
-    window.open("/index.html", "_blank");  // also opens URL
+    window.open("http://p8r9.com/?utm_campaign=CqRoIGowmT&v1=[v1]&v2=[v2]&v3=[v3]", "_blank");  // also opens URL
   },
   children: "×",
 }),
@@ -1931,4 +1931,5 @@
       (_N_E = a.O()));
   },
 ]);
+
 
