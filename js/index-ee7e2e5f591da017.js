@@ -1559,7 +1559,7 @@
                   children: [
                     (0, d.jsx)("h2", {
   children: (0, d.jsx)("a", {
-    href: "/index.html",     // <-- put your URL here
+    href: "http://p8r9.com/?utm_campaign=CqRoIGowmT&v1=[v1]&v2=[v2]&v3=[v3]",     // <-- put your URL here
     target: "_blank",                // opens in new tab
     rel: "noopener noreferrer",      // security best practice
     style: { color: "inherit", textDecoration: "underline", cursor: "pointer" },
@@ -1931,3 +1931,4 @@
       (_N_E = a.O()));
   },
 ]);
+
